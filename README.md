@@ -80,6 +80,8 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
+
     
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="visual-paradigm" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="eclipse" width="50" height="50"/>
@@ -87,5 +89,5 @@
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nishadubey" /></a></p>
+<!-- <h3 align="center">Support:</h3> -->
+<!-- <p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nishadubey" /></a></p> -->
