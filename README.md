@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://instagram.com/nishagdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/nisha-dubey-204905211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavith-bambaravanage-465300293" height="25" width="35" /></a>
-  <a href="https://www.leetcode.com/nishadubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavith_db" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/nishadubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nisha" height="30" width="40" /></a>
   <a href="mailto:nishadubey1291@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="nishadubey1291@gmail.com" height="30" width="40" /></a>
 </p>
 
@@ -79,8 +79,8 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GitLab-Light.svg
-    " alt="Gitlab" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg
+    " alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="visual-paradigm" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="eclipse" width="50" height="50"/>
