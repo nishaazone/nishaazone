@@ -3,7 +3,7 @@
 -- URL: https://github.com/nishaazone
 -->
 
-<p align="center" ><img  src = "https://dribbble.com/shots/15215756-Coding-Animation-Concept" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Nisha+Dubey!;" />
 </h1>        
@@ -81,10 +81,6 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
-
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="visual-paradigm" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="eclipse" width="50" height="50"/>
 </p>
 
 ---
