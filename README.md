@@ -58,7 +58,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/nishagdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a>
+<!--  <a href="https://instagram.com/nishagdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/nisha-dubey-204905211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavith-bambaravanage-465300293" height="25" width="35" /></a>
   <a href="https://www.leetcode.com/nishadubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nisha" height="30" width="40" /></a>
   <a href="mailto:nishadubey1291@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="nishadubey1291@gmail.com" height="30" width="40" /></a>
