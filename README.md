@@ -19,8 +19,8 @@
 - 🌱 I'm currently learning **Spring MVC and Quarkus**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
-- 
-- - ⚡ Fun fact **i ❤️ Anime**
+  
+- ⚡ Fun fact **I ❤️ Anime**
 
 </td>
 <td width="50%" align="center">
