@@ -16,7 +16,7 @@
   
 - 🎓 Software Developer @Kizora
 
-- 🌱 I'm currently learning **Spring MVC**
+- 🌱 I'm currently learning **Spring MVC and Quarkus**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
 
