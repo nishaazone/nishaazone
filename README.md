@@ -14,9 +14,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🎓 Software Developer @Kizora
+- 🎓 Software Developer
 
-- 🌱 I'm currently learning **Quarkus**
+- 🌱 I'm currently learning about**AI Agents, Agentic AI and LLMs**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
   
