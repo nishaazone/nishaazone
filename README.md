@@ -16,7 +16,7 @@
   
 - 🎓 Software Developer
 
-- 🌱 I'm currently learning about**AI Agents, Agentic AI and LLMs**
+- 🌱 I'm currently learning about **AI Agents, Agentic AI and LLMs**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
   
